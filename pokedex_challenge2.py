@@ -39,3 +39,4 @@ if __name__ == "__main__":
 
 # to execute, type:
 # python3 pokedex_challenge2.py pokemon1 pokemon2 . . . pokemon6
+#change
